@@ -1,32 +1,3 @@
-# # Paper Design Interface
-
-Eine mobile-first Web-App im Paper Design Stil, optimiert für iPhone und mobile Browser.
-
-## Features
-
-- Paper Design Ästhetik mit Schatten und Ebenen
-- Kachel-basierte Navigation ohne Icons (162px Höhe)
-- Fixierte Display-Größe (390×844px) - iPhone-optimiert
-- Zentrierte Navigation mit 34px Padding
-- Responsive innerhalb des festen Containers
-- Optimiert für Mozilla Firefox auf iOS
-
-## Live Demo
-
-https://dein-username.github.io/dein-repo-name
-
----
-
-## Schnellstart
-
-1. Erstelle ein neues Repository auf GitHub (Public)
-2. Erstelle eine Datei namens `index.html`
-3. Kopiere den folgenden Code in die Datei:
-4. Aktiviere GitHub Pages in den Einstellungen (Settings → Pages → Branch: main)
-5. Fertig!
-
----
-
 ## index.html
 
 ```html
